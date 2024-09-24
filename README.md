@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insanexxx
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning PHP, HTML, CSS, JS, Laravel, Yii2 etc.
+- 🌱 I’m currently learning PHP, HTML, CSS, JS, Laravel etc.
 - 💞️ I’m looking to collaborate on newbees
 - 📫 How to reach me - write me!
 
