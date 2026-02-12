@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insanexxx
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning JS, TypeScript, React etc.
+- 🌱 I’m currently learning PHP, JS, TypeScript, React etc.
 - 📫 How to reach me - write me!
 
 <!---
